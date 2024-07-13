@@ -5,7 +5,7 @@ import { IoHelpCircleOutline, IoSettingsOutline } from "react-icons/io5";
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import Logo from '../assets/logo_gmail.png';
+import Logo from '../assets/fg.jpeg';
 import { Tooltip } from "@nextui-org/tooltip";
 
 
@@ -24,7 +24,7 @@ const Navbar1 = () => {
             <Image
             src={Logo} 
             alt="Gmail Logo" 
-            className="w-[150px] h-[40px]"
+            className="w-[60px] h-[40px]"
             width={150}
             height={40}
             />
