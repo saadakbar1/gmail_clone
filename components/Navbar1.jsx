@@ -5,7 +5,7 @@ import { IoHelpCircleOutline, IoSettingsOutline } from "react-icons/io5";
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import Logo from '../assets/fg.jpeg';
+import Logo from '../assets/FG.jpeg';
 import { Tooltip } from "@nextui-org/tooltip";
 
 
