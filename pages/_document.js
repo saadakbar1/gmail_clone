@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <title>Gmail clone</title>
-      <link rel="icon" href="/favicon.png" sizes="any" />
+      <link rel="icon" href="/FG.jpeg" sizes="any" />
       <body>
         <Main />
         <NextScript />
