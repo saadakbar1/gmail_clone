@@ -84,7 +84,7 @@ const Navbar1 = () => {
         placement='bottom'>
           <div className="w-9 h-9 rounded-full">
               <Image 
-              src={'hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fnewprofilepic.com%2F&psig=AOvVaw2lHjYNk3va7MratNgzMzM6&ust=1720970091006000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCpjKqnpIcDFQAAAAAdAAAAABAE'} 
+              src={'https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg'} 
               alt={'Profile pic'}
               width={100}
               height={100}
