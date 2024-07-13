@@ -16,7 +16,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex space-x-1">
-        <p className="text-[12px] hover:underline">1.06 GB of 15 GB used </p>
+        <p className="text-[12px] hover:underline">3 GB of 15 GB used </p>
         <BiLinkExternal/>
       </div>
     </div>
