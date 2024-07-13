@@ -84,7 +84,7 @@ const Navbar1 = () => {
         placement='bottom'>
           <div className="w-9 h-9 rounded-full">
               <Image 
-              src={'https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg'} 
+              src={'https://assets.leetcode.com/users/avatars/avatar_1666412447.png'} 
               alt={'Profile pic'}
               width={100}
               height={100}
